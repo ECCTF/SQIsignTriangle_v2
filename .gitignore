@@ -1,0 +1,10 @@
+.codex_remote/
+.agents/
+.codex/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+build/
+build*/
